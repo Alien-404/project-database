@@ -1,0 +1,15 @@
+1.open xampp
+2.start apache and mysql
+3.create database "jatimlelungon" in phpmyadmin
+4.import jatimlelungon.sql file to phpmyadmin
+5.copy folder public and app into folder jatimlelungon or something else, and paste to your xampp/htdocs
+6.open in broswer url http://localhost/jatimlelungon/public/
+
+Copyright by kelompok 3 TI
+-novia pramesti
+-eben feliciano
+-marcelinus fajar cahyadi
+-piter tanuwijaya
+-vito jericho
+-rico
+
