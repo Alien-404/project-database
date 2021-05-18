@@ -1,0 +1,39 @@
+.post {
+    text-decoration: none !important;
+    color: gray;
+}
+.post:hover {
+    color: #fff;
+}
+
+#details {
+    text-decoration: none !important;
+    color: #fff;
+}
+#details:hover {
+    color: #fff;
+}
+
+.app-card-tags{
+    display: none;
+    margin-top: -3px;
+  }
+  
+.app-card-tags > span{
+    padding-top: -10px !important;
+    background-color:#262626;
+    margin-top: -5px;
+    margin-right: -4.5px;
+    padding: 4px 6px 4px 6px;
+    color: #F1F2F2;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    font-size: 12.5px;
+    text-decoration: none !important;
+}
+  
+.app-card-tags > span:hover{
+    background-color:#414042;
+    color: #F1F2F2;
+    transition: 0.3s;
+}
